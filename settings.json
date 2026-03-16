@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "BOT",
+    "password": "1",
     "type": "offline"
   },
   "server": {
     "ip": "ahmed444-3ZPB.aternos.me",
     "port": 38195,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
