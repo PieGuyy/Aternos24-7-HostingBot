@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "im cutie bot",
+        "Me sabse Pro hu",
+        "doom doom tedeyo"
       ]
     },
     "chat-log": true,
