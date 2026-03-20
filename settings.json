@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HGserver.aternos.me",
-    "port": 19877,
+    "ip": "RetroRiseSMP.aternos.me",
+    "port": 26496,
     "version": "",
     "try-creative": false
   },
